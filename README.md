@@ -24,7 +24,7 @@
 
 ## Description
 
-[Nest](https://github.com/nestjs/nest) framework TypeScript starter repository.
+A nest.js application to illustrate how controllers, modules and services work in this framework.
 
 ## Installation
 
